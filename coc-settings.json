@@ -1,0 +1,19 @@
+{
+    "eslint.autoFixOnSave": true,
+    "prettier.disableSuccessMessage": true,
+    "prettier.semi": false,
+    "prettier.arrowParens": "avoid",
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": false,
+    "prettier.proseWrap": "always",
+    "prettier.printWidth": 80,
+    "prettier.trailingComma": "none",
+    "coc.preferences.formatOnSaveFiletypes": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "tsserver.formatOnType": true,
+    "coc.preferences.formatOnType": true
+}
