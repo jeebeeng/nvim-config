@@ -12,8 +12,10 @@
         "javascript",
         "javascriptreact",
         "typescript",
-        "typescriptreact"
+        "typescriptreact",
+        "rust"
     ],
     "tsserver.formatOnType": true,
-    "coc.preferences.formatOnType": true
+    "coc.preferences.formatOnType": true,
+    "rust-analyzer.server.path": "/usr/local/bin/rust-analyzer"
 }
